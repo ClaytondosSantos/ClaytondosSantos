@@ -20,4 +20,4 @@ Conectar com meu
 <a href="Https://www.linkedin.com/in/clayton12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin"></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytondosSantos)
+
