@@ -1,6 +1,6 @@
 Oláá! 😁
 
-Eu sou Clayton desenvolvedor, atualmente desenvolvo projetos com:
+Eu sou Clayton dos Santos
 <br>
 <br>
 🛠️ Linguagens e ferramentas:
