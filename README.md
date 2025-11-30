@@ -1,6 +1,6 @@
 Olá 👋
 
-Eu sou Clayton, programador Front-End, atualmente desenvolvo projetos com:
+Eu sou Clayton desenvolvedor, atualmente desenvolvo projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo do HTML 5">
