@@ -1,4 +1,4 @@
-Olá 👋
+Oláá! 😁
 
 Eu sou Clayton desenvolvedor, atualmente desenvolvo projetos com:
 <br>
