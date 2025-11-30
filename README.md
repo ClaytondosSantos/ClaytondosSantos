@@ -11,7 +11,7 @@ Eu sou Clayton desenvolvedor, atualmente desenvolvo projetos com:
 Iniciando meus aprendizados com:
 <br>
 <br>
-### :hemmer_hemer_wrench: linguagens e ferramentas
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Logo do Python">
 <br>
