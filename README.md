@@ -20,9 +20,7 @@ Iniciando meus aprendizados com:
 <img align="center" alt="Clayton-Java" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Clayton-Spring-boot" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Clayton-Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
 <br>
 <br>
  Conectar
