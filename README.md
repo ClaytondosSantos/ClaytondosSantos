@@ -1,27 +1,35 @@
 Oláá! 😁
 
-Eu sou Clayton dos Santos
+## Eu sou Clayton dos Santos
 <br>
-<br>
+
 🛠️ Linguagens e ferramentas:
 <br>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo do HTML 5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Logo do CSS 3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo do Javascript">
+  <img align="center" alt="clayton-html" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="clayton-css" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="clayton-javascript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
 <br>
 Iniciando meus aprendizados com:
 <br>
 <br>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Logo do Python">
+<img align="center" alt="Clayton-Java" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Clayton-Spring-boot" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Clayton-Python" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br>
 <br>
-Conectar com meu
+ Conectar
 <br>
-<a href="Https://www.linkedin.com/in/clayton12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin"></a>
+<a href="Https://www.linkedin.com/in/claytonnsantos">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do Linkedin"></a>
+<br>
 
 
 
